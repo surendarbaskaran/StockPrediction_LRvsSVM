@@ -1,3 +1,5 @@
 # StockPrediction_LRvsSVM
 
-##Linear Regression Vs SVM
+
+
+Linear Regression Vs SVM
